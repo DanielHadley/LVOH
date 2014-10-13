@@ -7126,3 +7126,9 @@ td.visible-print {
         margin-right: auto;
         margin-bottom: 15px
 }
+
+.dan {
+  max-width:1200px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
